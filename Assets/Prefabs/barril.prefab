@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7983517057904897680}
   - component: {fileID: 612115212383362512}
   - component: {fileID: 3752093732923412687}
-  - component: {fileID: 9032606706518115701}
+  - component: {fileID: 8974889906622330355}
   m_Layer: 0
   m_Name: barril
   m_TagString: Untagged
@@ -64,7 +64,7 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 14
   m_Mesh: {fileID: 4300000, guid: 69767e3d139d58a44bc9fc70f5571e81, type: 3}
---- !u!114 &9032606706518115701
+--- !u!114 &8974889906622330355
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -73,7 +73,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 914423664388253733}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e14757d40b1770544b2bce7a01ef72d8, type: 3}
+  m_Script: {fileID: 11500000, guid: c66bf4f9ac635ce43b6b39ac7abec081, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &4572240231074301960

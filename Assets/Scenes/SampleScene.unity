@@ -886,7 +886,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2af4358a276304d4b9ab450d7c459d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  money: 100
+  money: 35
   uiManager: {fileID: 0}
 --- !u!114 &1027281775
 MonoBehaviour:

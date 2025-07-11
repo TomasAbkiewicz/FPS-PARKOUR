@@ -1,68 +1,36 @@
 fileFormatVersion: 2
-guid: 6631e0bd4479bde428f8ffca8ac7bedd
+guid: fb323e414661329448c74f5237ff24bd
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Cube.001
-    100002: Cube.002
-    100004: Cylinder.001
-    100006: Cylinder.006
-    100008: Cylinder.007
-    100010: Cylinder.008
-    100012: piso 4x4.001
-    100014: //RootNode
-    400000: Cube.001
-    400002: Cube.002
-    400004: Cylinder.001
-    400006: Cylinder.006
-    400008: Cylinder.007
-    400010: Cylinder.008
-    400012: piso 4x4.001
-    400014: //RootNode
-    2100000: Madera Tablas
-    2100002: Madera poste
-    2300000: Cube.001
-    2300002: Cube.002
-    2300004: Cylinder.001
-    2300006: Cylinder.006
-    2300008: Cylinder.007
-    2300010: Cylinder.008
-    2300012: piso 4x4.001
-    3300000: Cube.001
-    3300002: Cube.002
-    3300004: Cylinder.001
-    3300006: Cylinder.006
-    3300008: Cylinder.007
-    3300010: Cylinder.008
-    3300012: piso 4x4.001
-    4300000: Cube.001
-    4300002: Cube.002
-    4300004: Cylinder.001
-    4300006: Cylinder.006
-    4300008: Cylinder.007
-    4300010: Cylinder.008
-    4300012: piso 4x4.001
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Madera poste
+    2100002: Madera Tablas
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Viga
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Madera Tablas
-    second: {fileID: 2100000, guid: fe7efa73c49d9e145b8936d58e228a04, type: 2}
+    second: {fileID: 2100000, guid: 9feb2a43608cb7547ab74e572807ce6d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Madera poste
-    second: {fileID: 2100000, guid: ae08e217e864e5749b11cea7d3b16fff, type: 2}
+    second: {fileID: 2100000, guid: 474c97c658bbe36468e66b2f61c93ed7, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: TexturesCom_WoodRough0089_1_seamless_S
-    second: {fileID: 2800000, guid: 0ecfd396c2f30d44092c96debd688b63, type: 3}
+    second: {fileID: 2800000, guid: 8193c3d9a426e184dbce2222685f46ac, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: rough_wood_diff_1k
-    second: {fileID: 2800000, guid: a42e35de55337bc429513ea82d702236, type: 3}
+    second: {fileID: 2800000, guid: 31b2c552177016c4089485cfd9e8d4b1, type: 3}
   materials:
     importMaterials: 1
     materialName: 0

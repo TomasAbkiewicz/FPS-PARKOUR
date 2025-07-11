@@ -6,10 +6,10 @@ using UnityEngine.SceneManagement;
 public class HPManager : MonoBehaviour
 {
 	public float HP; 
-	public UI_Manager UIManager;
+	public UIManager uiManager;
 
 	void Start(){
-		uiManager = FindObjectOfType<UI_Manager>();
+		uiManager = FindObjectOfType<UIManager>();
 	}
 
 	public bool UpdateHP (float damage){
